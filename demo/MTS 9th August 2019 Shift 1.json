@@ -1,0 +1,463 @@
+[
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate word to fill in the blank and make a meaningful sentence: The culprits should not be allowed to ______ easily.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "get in",
+        "get on",
+        "get away",
+        "get up"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in the blank and make a grammatically correct sentence: The police ______ helmet lay on the table.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "offcers",
+        "officers’",
+        "officer",
+        "officer's"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the meaning of the given idiom: A wild-goose chase",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Useless search",
+        "Timely action",
+        "Wise decision",
+        "Delayed action"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the word which means the same as the group of words given: A speech made to oneself.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Monologue",
+        "Solitary",
+        "Eloquent",
+        "Dialogue"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Identify the segment in the sentence which contains the grammatical error: The player was declare run-out as he failed to complete the run.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "run-out as",
+        "he failed to",
+        "complete the run",
+        "The player was declare"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to substitute the underlined segment: They couldn't find what they wanted and decide to look elsewhere.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "No substitution required",
+        "have decided to look",
+        "had decided looking",
+        "decided to look"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the word which means the same as the group of words given: Who believes others easily and can be cheated.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Incredible",
+        "Gullible",
+        "Fraud",
+        "Native"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Identify the segment in the sentence which contains the grammatical error: If they said nothing, she could sense their disapproval of her suggestion.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "If they said nothing",
+        "their disapproval of",
+        "she could sense",
+        "No error"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the synonym of the given word: Aroma",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Sneeze",
+        "Stench",
+        "Stink",
+        "Scent"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the synonym of the given word: Confusion",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Assurance",
+        "Muddle",
+        "Devotion",
+        "Clarity"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No.1: An earthquake is the shaking of the ground caused by the sudden breaking and ______ of large sections of the Earth's rocky outer shell.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "pushing",
+        "hanging",
+        "bringing",
+        "shifting"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No.2: Scientists estimate that there ______ more than 8,000 minor earthquakes each day.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "is",
+        "has",
+        "are",
+        "have"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No.3: Of these, only about 1,000 are strong ______ to be felt.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "adequate",
+        "enough",
+        "sufficient",
+        "capable"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No.4: At least 40 moderate earthquakes cause damage somewhere ______ the world each year.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "on",
+        "in",
+        "into",
+        "through"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No.5: A really powerful earthquake only occurs, on average, once every two years, ______ when it does, the results can be devastating.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "whereas",
+        "but",
+        "while",
+        "as"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Identify the segment in the sentence which contains the grammatical error: In the evening he likes to read books and articles that have nothing to do of his work.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "do of his work",
+        "In the evening he likes",
+        "that have nothing to",
+        "to read books and articles"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the correctly spelt word.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Comittee",
+        "Committe",
+        "Committee",
+        "Commitee"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the correctly spelt word.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Anniversery",
+        "Anniversary",
+        "Aniversary",
+        "Aniversery"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the antonym of the given word: Delicious",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Insipid",
+        "Tepid",
+        "Salty",
+        "Gross"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to substitute the underlined segment in the given sentence: The study found that men who were married lived longer than those who were not.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "that who were",
+        "the one who were",
+        "No substitution required",
+        "these who were"
+      ],
+      "correctOption": 3
+    }
+  ]
+  

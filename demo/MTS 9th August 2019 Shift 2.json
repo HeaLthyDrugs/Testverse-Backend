@@ -1,0 +1,463 @@
+[
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required': The detectives searched the house from top to bottom, but find any sign of the stolen goods.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "No substitution required",
+        "while finding no sign",
+        "despite found any sign",
+        "but found no sign"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Identify the segment in the sentence which contains the grammatical error from the given options: When they started, they had great ideas but lack the business know-how.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "When they started",
+        "they had great ideas",
+        "but lack",
+        "the business know-how"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Identify the segment in the sentence which contains the grammatical error from the given options: Its a good idea to read up on a company before going for an interview.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "before going for",
+        "its a good idea to",
+        "an interview",
+        "read up on a company"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the antonym of the given word: Delicate",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Flimsy",
+        "Feeble",
+        "Fragile",
+        "Firm"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required': Suresh thought of a splendid idea to celebrate his parents' anniversary.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "think about a",
+        "No substitution required",
+        "thought of",
+        "thought at the"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the synonym of the given word: Impolite",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Intelligent",
+        "Brave",
+        "Rude",
+        "Irrelevant"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the meaning of the given idiom: All and sundry",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "By all means",
+        "All eager",
+        "All included",
+        "All in agreement"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the synonym of the given word: Remember",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Recall",
+        "Recollect",
+        "Review",
+        "Reign"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the correctly spelt word.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Supplimantry",
+        "Supplimentry",
+        "Supplementary",
+        "Supplemantry"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the correctly spelt word.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Lubrisent",
+        "Lubricant",
+        "Lubrecant",
+        "Lubricent"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate word to fill in the blank and make a meaningful sentence: Owing to all the recent negative turn of events in her life, she strongly felt forces must be at work.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "helpful",
+        "evil",
+        "angelic",
+        "haunting"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Identify the segment in the sentence which contains the grammatical error from the given options: For most citizens today, liberty meant the freedom to practise their religious or political beliefs.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "For most citizens today",
+        "practise their religious",
+        "liberty meant the freedom to",
+        "or political beliefs."
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in the blank and make a grammatically correct sentence: The driver of the car probably holds the key to the crime.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "solving",
+        "solves",
+        "solved",
+        "solution"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the antonym of the given word: Adamant",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Coherent",
+        "Stubborn",
+        "Stupid",
+        "Flexible"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the meaning of the given idiom: Chip off the old block",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Resembling parents",
+        "Having interest in antique furniture",
+        "Having old fashioned values",
+        "Looking after parents"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate word to fill in the blank and make a meaningful sentence: His old car ______ on the highway.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "broke up",
+        "broke out",
+        "broke in",
+        "broke down"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required': For the past six months, she is searching for a job.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "had been searching",
+        "No substitution required",
+        "has searching",
+        "has been searching"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the word which means the same as the group of words given: An introduction to a book usually stating its purpose",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Bibliography",
+        "Preface",
+        "Epilogue",
+        "Acknowledgment"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the word which means the same as the group of words given: A contest between two people to settle a point of honour",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "dual",
+        "duel",
+        "dwo",
+        "duet"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in the blank and make a grammatically correct sentence: You are sure to ___ if you don't keep to the path.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "get lose",
+        "got lost",
+        "get lost",
+        "got lose"
+      ],
+      "correctOption": 3
+    }
+  ]
+  

@@ -1,0 +1,463 @@
+[
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate word to fill in the blank and make a meaningful sentence: Nowadays, digital services have made our cash transactions easier and",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "softer",
+        "smoother",
+        "heavier",
+        "dearer"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate word for the given group of words: The decision that is given by the jury or judge at the end of a trial.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Accusation",
+        "Punishment",
+        "Allegation",
+        "Verdict"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Identify the segment in the sentence which contains the grammatical error: Outside the cinema hall, there was queue of people waiting to see the movie.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "there was queue of",
+        "people waiting",
+        "to see the movie",
+        "Outside the cinema hall"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate word for the given group of words: An extremely large mass of ice which moves very slowly, often down a mountain valley.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Iceberg",
+        "Glacier",
+        "Island",
+        "Ocean"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in the blank and make a grammatically correct sentence: Robert and Rooney aren't very good friends although they ___ each other for a long time.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "have known",
+        "are knowing",
+        "has known",
+        "knew"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate word to fill in the blank and make a meaningful sentence: When I returned home from work, I found my son weeping ___.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "sweetly",
+        "bitterly",
+        "calmly",
+        "gently"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate antonym of the word: ILLUSION",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Fantasy",
+        "Hallucination",
+        "Mirage",
+        "Reality"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to substitute the underlined segment in the given sentence: The fire spread through the building very quick but fortunately nobody was injured.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "spreads through the building quickly",
+        "spread through the building quickly",
+        "spreading through the building very quick",
+        "No improvement"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No.1: The house – the only one in the entire valley – sat on the crest of a low hill. From this height one (1) ___ see the river and the field of ripe corn dotted with flowers that promised a good harvest.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "need",
+        "ought",
+        "must",
+        "could"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No.2: The house – the only one in the entire valley – sat on the crest of a low hill. From this height one could see the river and the field of ripe corn dotted with flowers that (2) ___ promised a good harvest.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "hardly",
+        "always",
+        "never",
+        "rarely"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No.3: The only thing the earth (3) ___ was a downpour or at least a shower.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "needed",
+        "prayed",
+        "displayed",
+        "longed"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No.4: Throughout the morning Paul – who (4) ___ his fields intimately – had done nothing else but watch the sky towards the north-east.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "knowing",
+        "known",
+        "know",
+        "knew"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No.5: Paul – who knew his fields intimately – (5) ___ done nothing else but watch the sky towards the north-east.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "have",
+        "having",
+        "had",
+        "is"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate meaning of the given idiom: Forty winks.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "A short nap",
+        "To blink repeatedly",
+        "To keep awake",
+        "A sound sleep at night"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Identify the segment in the sentence which contains the grammatical error: A friend of mine is working as a photographer of the local newspaper.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "A friend of mine",
+        "the local newspaper",
+        "is working as a",
+        "photographer of"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate meaning of the given idiom: It’s raining cats and dogs.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "To rain very heavily",
+        "To rain continuously",
+        "To rain mildly",
+        "To rain at regular intervals"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Identify the segment in the sentence which contains the grammatical error: The essay is divided into five paragraphs and every of these has seven sentences.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "has seven sentences",
+        "into five paragraphs",
+        "The essay is divided",
+        "and every of these"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to substitute the underlined segment: Robert told me about his new job, which he's enjoying very much.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "No improvement",
+        "Which he enjoying",
+        "that which he's enjoyed",
+        "which he had enjoy"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate synonym of the word: CALM.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Violent",
+        "Peaceful",
+        "Windy",
+        "Stormy"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate synonym of the word: RELEVANT.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Unconnected",
+        "Applicable",
+        "Inapplicable",
+        "Unrelated"
+      ],
+      "correctOption": 2
+    }
+  ]
+  

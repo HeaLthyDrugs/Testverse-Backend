@@ -1,0 +1,463 @@
+[
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the synonym of the given word: Slender",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Sturdy",
+        "Slippery",
+        "Slim",
+        "Strong"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the word which means the same as the group of words given: A person who wastes his money on luxury",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Monarch",
+        "Expensive",
+        "Frugal",
+        "Extravagant"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the meaning of the given idiom: To pour oil in troubled water",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "To calm a dispute",
+        "To create tension",
+        "To light a fire",
+        "To raise a controversy"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in the blank and make a grammatically correct sentence: I was determined not to stay in hospital for any longer ___ was strictly necessary.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "that",
+        "than",
+        "then",
+        "though"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Identify the segment in the sentence which contains the grammatical error: Put off the air conditioner unless you will catch a cold",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "you will",
+        "Put off the air conditioner",
+        "unless",
+        "catch a cold"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Identify the segment in the sentence which contains the grammatical error: It's important for media to be more responsibly and careful.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "it's important",
+        "for media to be",
+        "more responsibly",
+        "and careful"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to substitute the underlined segment: The interview was broadcast on the same day he was sworn in as President.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "had broadcast",
+        "broadcast",
+        "was broadcasted",
+        "No substitution required"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Identify the segment in the sentence which contains the grammatical error: The company has invested a great deal of time and effort to setting up new training schemes.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "time and effort to setting up",
+        "invested a great deal of",
+        "new training schemes",
+        "none"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the correctly spelt word.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Elimantry",
+        "Elementary",
+        "Elemantry",
+        "Elimentary"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in the blank and make a grammatically correct sentence: The bodies identified as those of two suspected drug dealers.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "were",
+        "had",
+        "have",
+        "was"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to substitute the underlined segment in the sentence: The trainee hand a copy of his appointment letter to the HR head.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "No substitution required",
+        "handed over a copy",
+        "hand over the copy",
+        "handed of a copy"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the antonym of the given word: Hopeful",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Optimistic",
+        "Pessimistic",
+        "Cheerful",
+        "Joyful"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the word which means the same as the group of words given: One who works very hard",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Labourer",
+        "Industrious",
+        "Exploited",
+        "Exhausted"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the synonym of the given word: Apparent",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Obsolete",
+        "Objective",
+        "Obvious",
+        "Obscure"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the meaning of the given idiom: Fair's fair",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Fair complexion",
+        "Just treatment",
+        "Disappointed",
+        "White supremacy"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No.1.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "from",
+        "by",
+        "at",
+        "in"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No.2.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "leaves",
+        "rests",
+        "preserves",
+        "remains"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No.3.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "in",
+        "with",
+        "to",
+        "on"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No.4.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "plan",
+        "accident",
+        "provision",
+        "occasion"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No.5.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "excelled",
+        "talented",
+        "skilled",
+        "recorded"
+      ],
+      "correctOption": 1
+    }
+  ]
+  

@@ -1,0 +1,463 @@
+[
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select No improvement: Rashi hasn't eaten everything from yesterday.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "anything since",
+        "something for",
+        "nothing along",
+        "No improvement"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the correctly spelt word.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Essentail",
+        "Essencial",
+        "Essential",
+        "Essensial"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in the blank and make a grammatically correct sentence: The vase broke ___ pieces when Simran dropped it.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "from",
+        "in",
+        "among",
+        "into"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate antonym of the word: Confront",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Avoid",
+        "Face",
+        "Encounter",
+        "Meet"
+      ],
+      "correctOption": 0
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate antonym of the word: Quell",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Agitate",
+        "Deny",
+        "Reduce",
+        "Entire"
+      ],
+      "correctOption": 0
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate word to fill in the blank and make a meaningful sentence: Be careful not to drop this glass case; it's very __.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "fragile",
+        "rigid",
+        "smooth",
+        "hard"
+      ],
+      "correctOption": 0
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate synonym of the word: Fundamental",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Trivial",
+        "Extra",
+        "Secondary",
+        "Basic"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate meaning of the given idiom: Cry over spilt milk",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Cry too much over a petty issue",
+        "Regret about something that happened and cannot be changed",
+        "Unnecessarily worry about the future",
+        "Complain about being forced to drink milk"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select No improvement: The new traffic signals is not clear visible from a distance.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "No improvement",
+        "are not clearly",
+        "is not clearly",
+        "are not clear"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No. 1 of the following passage: Rama was a naughty boy (1) lived in the village of Tenali.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "who",
+        "which",
+        "he",
+        "that"
+      ],
+      "correctOption": 0
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No. 2 of the following passage: His mother did not (2) what to do with him.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "knowing",
+        "know",
+        "knew",
+        "knows"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No. 3 of the following passage: He (3) to study or do any work.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "wished",
+        "reminded",
+        "refused",
+        "denied"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No. 4 of the following passage: One day (4) took him to see a Guru.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "her",
+        "they",
+        "she",
+        "he"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank No. 5 of the following passage: She told the (5) man that she wanted him to take Rama under his guardianship.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "lonely",
+        "lazy",
+        "learned",
+        "lively"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate meaning of the given idiom: Far cry from",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "To be very different from",
+        "To be sad about past things",
+        "To be away from dear ones",
+        "To cry over small things"
+      ],
+      "correctOption": 0
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate synonym of the given word: Detain",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Delay",
+        "Advance",
+        "Permit",
+        "Allow"
+      ],
+      "correctOption": 0
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select No improvement: Shakiba is a smallest of the two girls.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "the smaller",
+        "the small",
+        "more small",
+        "No improvement"
+      ],
+      "correctOption": 0
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate word to fill in the blank and make a meaningful sentence: The development of real estate has __ impacted the environment.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "narrowly",
+        "positively",
+        "conveniently",
+        "adversely"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate article to fill in the blank: London is ___ European city.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "a",
+        "No article",
+        "an",
+        "the"
+      ],
+      "correctOption": 0
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate word for the given group of words: A large bundle bound for storage or transport.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Bunch",
+        "Bale",
+        "Bevy",
+        "Barrel"
+      ],
+      "correctOption": 1
+    }
+  ]
+  

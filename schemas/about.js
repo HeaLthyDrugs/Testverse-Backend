@@ -1,0 +1,20 @@
+export default {
+    name: 'about',
+    title: 'About',
+    type: 'document',
+    fields: [
+      {
+        name: 'title',
+        title: 'Title',
+        type: 'string',
+      },
+      {
+        name: 'content',
+        title: 'Content',
+        type: 'array',
+        of: [{ type: 'block' }],
+        description: 'Editable content for the About screen',
+      },
+    ],
+  };
+  

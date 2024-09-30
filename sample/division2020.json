@@ -1,0 +1,16 @@
+{
+    "_type": "division",
+    "year": 2020,
+    "date": "3 March",
+    "shifts": [
+      {
+        "_type": "reference",
+        "_ref": "shift1"
+      },
+      {
+        "_type": "reference",
+        "_ref": "shift2"
+      }
+
+    ]
+  }

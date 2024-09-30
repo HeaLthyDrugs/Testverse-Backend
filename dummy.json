@@ -1,0 +1,52 @@
+[
+    {
+      "question": "Select the most appropriate meaning of the given idiom: Hard nut to crack",
+      "options": [
+        "A problem difficult to solve",
+        "To leave an effect",
+        "A situation that can be altered",
+        "To bid farewell"
+      ],
+      "correct_option": "A problem difficult to solve"
+    },
+    {
+      "question": "Select the option that expresses the given sentence in passive voice: Sanyukta has to bake fifty-one cakes for the anniversary party.",
+      "options": [
+        "Fifty-one cakes will be baked by Sanyukta for the anniversary party.",
+        "Fifty-one cakes had to be baken by Sanyukta for the anniversary party.",
+        "Fifty-one cakes have to be baked by Sanyukta for the anniversary party.",
+        "Fifty-one cakes has to be baked by Sanyukta for the anniversary party."
+      ],
+      "correct_option": "Fifty-one cakes have to be baked by Sanyukta for the anniversary party."
+    },
+    {
+      "question": "Select the INCORRECTLY spelt word.",
+      "options": [
+        "Submisive",
+        "Validity",
+        "Kaleidoscope",
+        "Animation"
+      ],
+      "correct_option": "Submisive"
+    },
+    {
+      "question": "Select the option that can be used as a one-word substitute for the italicised group of words in the given sentence: The prime minister paid tributes to the martyrs by laying a circular arrangement of flowers.",
+      "options": [
+        "Buds",
+        "Posies",
+        "Bouquets",
+        "Wreaths"
+      ],
+      "correct_option": "Wreaths"
+    },
+    {
+      "question": "Select the most appropriate ANTONYM of the underlined word: The village fair was cancelled due to incessant rains.",
+      "options": [
+        "Insistent",
+        "Daily",
+        "Sporadic",
+        "Continual"
+      ],
+      "correct_option": "Sporadic"
+    }
+  ]
