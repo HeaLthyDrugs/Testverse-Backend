@@ -1,0 +1,577 @@
+[
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the correct indirect form of the given sentence. The coach said to the student, \"When will you come for practice?\"",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "The coach asked the student when he would come for practice.",
+        "The coach asked the student when he would came for practice.",
+        "The coach asked the student when would he come for practice.",
+        "The coach asked the student when he will come for practice."
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "The given sentence is in active voice. Change the voice of the sentence. Select the correct option from the sentences given in options. I know he will play his guitar.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "His guitar will be played by him is something I know.",
+        "His guitar will be played by him is know to me.",
+        "It is known to me that his guitar would be played by him.",
+        "It is known to me that his guitar will be played by him."
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Parts of the following sentence are given as options. Identify the part that contains a grammatical error. If there is no error, select 'No error'. The objective was to / dispose off a cargo of cotton which / I had brought from Mumbai port.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "I had brought from Mumbai port",
+        "dispose off a cargo of cotton which",
+        "The objective was to",
+        "No error"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate meaning of the given idiom. Bite the dust",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "To lose a fight",
+        "To grieve over",
+        "To hate",
+        "To die"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Find the part of the given sentence that has an error in it. If there is no error, choose 'No error'. This whole plot come under my uncle's jurisdiction.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "This whole plot",
+        "No error",
+        "uncle's jurisdiction",
+        "come under my"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Choose the word that can substitute the given group of words. Give off gas bubbles",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Effuse",
+        "Buoyant",
+        "Flat",
+        "Effervescent"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Choose the word that means the same as the given word. Dandy",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Cartel",
+        "Beautiful",
+        "Disappointment",
+        "Dull"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Choose the word that means the same as the given word. Habitat",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Clothed",
+        "Motion",
+        "Niche",
+        "Bent"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate 'one word' for the expression given below. One who is against religion.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Poacher",
+        "Heretic",
+        "Lunatic",
+        "Bandit"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Rearrange the parts of the sentence in correct order. The Supreme Court P. must remind the state to act constitutionally, Q. lawfully and justly in every case across the R. country, especially in sensitive matters involving S. those who oppose the party in office with peaceful means",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "PQRS",
+        "QRSP",
+        "QPSR",
+        "PQSR"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "In the following question, out of the given four alternatives, select the alternative which best expresses the meaning of the Idiom/Phrase. In black and white",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "In brief",
+        "In writing",
+        "In trouble",
+        "In suspense"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate 'one word' for the expression given below. Exclusive command or possession",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Parvenu",
+        "Sanctum",
+        "Monopoly",
+        "Hypergamy"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Rearrange the parts of the sentence in correct order. P. actually move so slowly that algae grows on their fur and Q. the forest from predators like nocturnal cats and harpy eagles R. this can give sloths a green colour that helps them hide in S. sloths live in tropical forests in South and Central America, and they",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "SRQP",
+        "PSQR",
+        "SPRQ",
+        "RQPS"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the word that is closest in meaning (SYNONYM) to the word given below. CAJOLE",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "DISSUADE",
+        "DISENCHANT",
+        "PERSUADE",
+        "BULLY"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Choose the word that can substitute the given group of words. One who feeds on plants only",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Vermivorous",
+        "Carnivorous",
+        "Herbivorous",
+        "Omnivorous"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Choose the incorrectly spelt word.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Adhere",
+        "Block",
+        "Grudie",
+        "Flown"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Fill in the blank with an appropriate option. Until you confess your crime, the abdomen would _____ to grow and grow until you could not breathe.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "expire",
+        "reckon",
+        "continue",
+        "desist"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Choose the sentence with no spelling error.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Peale and pit avocados and cut into slise.",
+        "Peel and pit avacados and cut into slice.",
+        "Peal and pitt avocados and cut into slise.",
+        "Peel and pit avocados and cut into slice."
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the word segment that substitutes (replaces) the bracketed word segment correctly and completes the sentence meaningfully. In case no improvement is needed, select 'No improvement'. (Neither of the two have cleared the) aptitude test.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Neither of the two boys have cleared",
+        "Neither of the two has cleared the",
+        "No improvement",
+        "Neither of two have cleared the"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Choose the word that is opposite in meaning to the given word. Young",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "Silly",
+        "Limited",
+        "Mature",
+        "Gravity"
+      ],
+      "correctOption": 3
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank number 1. A recent study that (1) people's brains at different points in their work day...",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "scanned",
+        "answered",
+        "buzzed",
+        "illuminated"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank number 2. A recent study that (1) people's brains at different points in their work day (2) high-demand tasks which require intense, constant concentration...",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "found",
+        "founded",
+        "find",
+        "had founded"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank number 3. ...can lead to build-up of a (3) toxic chemical called glutamate.",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "grandly",
+        "perpetually",
+        "utterly",
+        "potentially"
+      ],
+      "correctOption": 4
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank number 4. Normally used to (4) signals from nerve cells...",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "donate",
+        "send",
+        "travel",
+        "swipe"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": [
+        {
+          "_type": "block",
+          "style": "normal",
+          "children": [
+            {
+              "_type": "span",
+              "text": "Select the most appropriate option to fill in blank number 5. ...in large quantities glutamate alters the (5) of a brain region involved in planning and decision making, the lateral prefrontal cortex (IPFC)",
+              "marks": []
+            }
+          ],
+          "markDefs": []
+        }
+      ],
+      "options": [
+        "radiation",
+        "performance",
+        "ensemble",
+        "synergy"
+      ],
+      "correctOption": 2
+    }
+  ]

@@ -7,5 +7,6 @@ import sliderImage from "./sliderImage";
 import examNotification from "./examNotification";
 import about from "./about";
 import contact from "./contact";
+import appDetails from "./appDetails";
 
-export const schemaTypes = [Category,test,questions,set,FAQ,sliderImage, examNotification, about, contact]
+export const schemaTypes = [Category,test,questions,set,FAQ,sliderImage, examNotification, about, contact, appDetails]

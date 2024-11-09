@@ -4,11 +4,6 @@ export default {
     type: 'document',
     fields: [
       {
-        name: 'phone',
-        title: 'Phone',
-        type: 'string',
-      },
-      {
         name: 'email',
         title: 'Email',
         type: 'string',
