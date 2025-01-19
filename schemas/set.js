@@ -52,6 +52,12 @@ export default defineType({
       validation: (rule) => rule.required().integer(),
     },
     {
+      name: 'markPerQuestion',
+      title: 'Mark Per Question',
+      type: 'number',
+      initialValue: () => 1,
+    },
+    {
       name: 'questions',
       title: 'Questions',
       type: 'array',

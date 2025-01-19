@@ -28,30 +28,8 @@ export default {
         name: 'features',
         title: 'Key Features',
         type: 'array',
-        of: [{
-          type: 'object',
-          fields: [
-            {
-              name: 'icon',
-              title: 'Feature Icon',
-              type: 'string',
-              description: 'MaterialIcons icon name',
-              validation: Rule => Rule.required()
-            },
-            {
-              name: 'title',
-              title: 'Feature Title',
-              type: 'string',
-              validation: Rule => Rule.required()
-            },
-            {
-              name: 'description',
-              title: 'Feature Description',
-              type: 'string',
-              validation: Rule => Rule.required()
-            }
-          ]
-        }]
+        of: [{ type: 'block' }],
+        description: 'Rich text content for features'
       },
       {
         name: 'slug',
