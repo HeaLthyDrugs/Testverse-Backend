@@ -55,7 +55,7 @@ export default defineType({
       name: 'markPerQuestion',
       title: 'Mark Per Question',
       type: 'number',
-      initialValue: () => 1,
+      initialValue: () => 2,
     },
     {
       name: 'questions',
