@@ -21,7 +21,7 @@ export default {
         validation: Rule => Rule.required(),
         options: {
           list: [
-            { title: 'About', value: 'About' },
+            { title: 'About', value: 'Second About' },
             { title: 'Subscription', value: 'Buy Subscription' },
             { title: 'Study Material', value: 'Study Material' },
           ],
