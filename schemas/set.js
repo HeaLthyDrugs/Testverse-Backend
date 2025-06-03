@@ -58,6 +58,13 @@ export default defineType({
       initialValue: () => 2,
     },
     {
+      name: 'negativeMarking',
+      title: 'Negative Marking',
+      type: 'number',
+      validation: (rule) => rule.required().min(0),
+      initialValue: () => 0,
+    },
+    {
       name: 'questions',
       title: 'Questions',
       type: 'array',
