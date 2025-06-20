@@ -7,6 +7,12 @@ export default defineType({
   type: 'document',
   fields: [
     {
+      name: 'category',
+      title: 'Category',
+      type: 'reference',
+      to: [{ type: 'category' }],
+    },
+    {
       name: 'name',
       title: 'Paper Name',
       type: 'string',
