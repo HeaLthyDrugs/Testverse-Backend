@@ -14,6 +14,20 @@ export default {
         validation: Rule => Rule.required(),
       },
       {
+        name: 'linkType',
+        type: 'string',
+        title: 'Link Type',
+        description: 'Choose whether to use a predefined screen or a custom link',
+        validation: Rule => Rule.required(),
+        options: {
+          list: [
+            { title: 'To Screen', value: 'predefined' },
+            { title: 'To Custom Link', value: 'custom' },
+          ],
+        },
+        initialValue: 'predefined',
+      },
+      {
         name: 'targetScreen',
         type: 'string',
         title: 'Target Screen',
@@ -31,6 +45,15 @@ export default {
             { title: 'Offers', value: 'Offers' },
           ],
         },
+        hidden: ({ document }) => document?.linkType !== 'predefined',
+      },
+      {
+        name: 'customLink',
+        type: 'url',
+        title: 'Custom Link',
+        description: 'Enter a custom URL to navigate to when the image is pressed',
+        validation: Rule => Rule.uri({ scheme: ['http', 'https'] }),
+        hidden: ({ document }) => document?.linkType !== 'custom',
       },
     ],
   };
