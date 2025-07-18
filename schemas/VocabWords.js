@@ -12,6 +12,18 @@ export default defineType({
       validation: rule => rule.required(),
     },
     {
+      name: 'wordID',
+      title: 'Word ID',
+      type: 'string',
+      readOnly: false, // Allow manual editing
+      hidden: false,
+      description: 'Unique ID for the word. Leave blank to auto-generate, or enter a custom value.',
+      initialValue: () => {
+        return crypto.randomUUID ? crypto.randomUUID() : (typeof uuid === 'function' ? uuid() : '');
+      },
+      validation: rule => rule.required(),
+    },
+    {
       name: 'meaning',
       title: 'Meaning',
       type: 'array',

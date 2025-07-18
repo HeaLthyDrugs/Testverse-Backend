@@ -43,6 +43,8 @@ export default {
             { title: 'Contact Us', value: 'Contact Us' },
             { title: 'Exam Notification', value: 'Exam notification"' },
             { title: 'Offers', value: 'Offers' },
+            { title: 'Refer & Earn', value: 'Refer' },
+            
           ],
         },
         hidden: ({ document }) => document?.linkType !== 'predefined',
